@@ -170,7 +170,7 @@ Default speed at startup is level `5` (180).
 ### Build and Hardware Testing
 
 <p align="center">
-  <img src="assets/hardware/soccer-bot.jpg" alt="Build progress" width="600"/>
+  <img src="image/soccer bot .jpg" alt="Build progress" width="600"/>
 </p>
 
 <p align="center">
