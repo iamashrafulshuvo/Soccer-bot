@@ -73,7 +73,7 @@ It is a team project. The robot has been taken to real competitions, and each on
 ## System Architecture
 
 <p align="center">
-  <img src="assets/hardware/system_architecture.png" alt="System architecture diagram" width="800"/>
+  <img src="image/system_architecture.png" alt="System architecture diagram" width="800"/>
 </p>
 
 The full wiring schematic is below.
