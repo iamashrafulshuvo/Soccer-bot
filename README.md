@@ -167,13 +167,13 @@ The robot starts at level `5` (180).
 
 ## Competitions
 
-Full reports (match notes, failure analysis, lessons and next fixes) are in [`competitions/`](competitions/).
+Full reports (match notes, failure analysis, lessons and next fixes) are in [`competitions/`](Competitions/).
 
 <!-- To add a competition: copy competitions/_TEMPLATE.md into a new folder, fill it in, then add a row below. -->
 
 | Year | Event | Organizer | Result | Report |
 |:--:|:--|:--|:--|:--:|
-| 2026 | ROBO LEAGUE 2026 | Robotics Club of BRAC University (ROBU) | Participated, withdrew mid-match after a hardware fault | [Report](competitions/ROBO-LEAGUE-2026/README.md) |
+| 2026 | ROBO LEAGUE 2026 | Robotics Club of BRAC University (ROBU) | Participated, withdrew mid-match after a hardware fault | [Report](Competitions/Robo League 2026/README.md) |
 
 ---
 
