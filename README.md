@@ -105,7 +105,7 @@ The full wiring schematic is below.
 
 ## Firmware
 
-The firmware is one Arduino sketch: [`ESP32_Soccer_Robot.ino`](ESP32_Soccer_Robot.ino).
+The firmware is one Arduino sketch: [`ESP32_Soccer_Robot.ino`](soccer_bot_control.ino).
 
 | Setting | Value |
 |:--|:--|
