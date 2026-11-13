@@ -135,7 +135,7 @@ The robot starts at level `5` (180).
 ## Getting Started
 
 1. Install the **Arduino IDE** and the **ESP32 board package**.
-2. Open `ESP32_Soccer_Robot.ino` and select your board (for example *ESP32 Dev Module*).
+2. Open [`ESP32_Soccer_Robot.ino`](ESP32_Soccer_Robot.ino) and select your board (for example *ESP32 Dev Module*).
 3. Upload the sketch over USB.
 4. Wire the robot as in [Wiring and Pin Map](#wiring-and-pin-map) and connect the battery.
 5. Pair your Android phone with **SoccerBot** in Bluetooth settings.
