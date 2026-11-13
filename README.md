@@ -79,7 +79,7 @@ It is a team project. The robot has been taken to real competitions, and each on
 The full wiring schematic is below.
 
 <p align="center">
-  <img src="assets/hardware/Circuit_diagram.png" alt="Circuit diagram" width="700"/>
+  <img src="image/Circuit_diagram.png" alt="Circuit diagram" width="700"/>
 </p>
 
 ---
