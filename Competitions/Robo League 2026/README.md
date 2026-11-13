@@ -1,4 +1,4 @@
-<h1 align="center">🏟️ ROBO LEAGUE 2026</h1>
+<h1 align="center">ROBO LEAGUE 2026</h1>
 
 <p align="center">
   <b>Match report and technical post-mortem of our ESP32 Bluetooth soccer robot</b><br/>
@@ -23,6 +23,7 @@
 - [Lessons Learned](#lessons-learned)
 - [Next Revision](#next-revision)
 - [Pre-Match Checklist for Future Events](#pre-match-checklist-for-future-events)
+- [Certificate](#certificate)
 
 ---
 
@@ -82,17 +83,17 @@ The firmware stops both motors when the Bluetooth client disconnects, so losing 
 ## Gallery
 
 <p align="center">
-  <img src="Competitions/images/Lineup.jpg" alt="Robot lineup" width="650"/><br/>
+  <img src="../images/Lineup.jpg" alt="Robot lineup" width="650"/><br/>
   <sub>Robot lineup</sub>
 </p>
 
 <p align="center">
-  <img src="Assets/COMPETITION_ARENA.jpg" alt="Competition arena" width="650"/><br/>
+  <img src="../images/COMPETITION_ARENA.jpg" alt="Competition arena" width="650"/><br/>
   <sub>Competition arena</sub>
 </p>
 
 <p align="center">
-  <img src="Assets/ROBOT_ARENA.jpg" alt="Robot in the arena" width="650"/><br/>
+  <img src="../images/ROBOT_ARENA.jpg" alt="Robot in the arena" width="650"/><br/>
   <sub>Robot in the arena</sub>
 </p>
 
@@ -186,6 +187,7 @@ Steps for the post-event inspection, in order:
 
 ## Certificate
 
-<!-- Add the participation certificate here once you have it:
-<p align="center"><img src="Assets/certificate.jpg" alt="Participation certificate" width="600"/></p>
--->
+<p align="center">
+  <img src="../images/Robo_league_certificate.jpg" alt="ROBO LEAGUE 2026 participation certificate" width="650"/><br/>
+  <sub>Participation certificate, ROBO LEAGUE 2026</sub>
+</p>
