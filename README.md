@@ -105,11 +105,7 @@ The full wiring schematic is below.
 
 ## Firmware
 
-The firmware is one Arduino sketch: [`ESP32_Soccer_Robot.ino`](soccer_bot_control.ino).
-
-| Setting | Value |
-|:--|:--|
-| PWM frequency | 20 kHz |
+The firmware is one Arduino sketch: [`ESP32_Soccer_Robot.ino`](ESP32_Soccer_Robot.ino)
 | PWM resolution | 8-bit (0–255) |
 | Bluetooth name | `SoccerBot` |
 | Library | `BluetoothSerial` |
