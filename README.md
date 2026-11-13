@@ -160,7 +160,7 @@ The robot starts at level `5` (180).
 </p>
 
 <p align="center">
-  <img src="assets/media/Team%20Work.jpg" alt="Team at work" width="600"/>
+  <img src="image/Team Work.jpg" alt="Team at work" width="600"/>
 </p>
 
 ---
