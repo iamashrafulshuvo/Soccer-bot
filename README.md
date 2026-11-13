@@ -173,7 +173,7 @@ Full reports (match notes, failure analysis, lessons and next fixes) are in [`co
 
 | Year | Event | Organizer | Result | Report |
 |:--:|:--|:--|:--|:--:|
-| 2026 | ROBO LEAGUE 2026 | Robotics Club of BRAC University (ROBU) | Participated, withdrew mid-match after a hardware fault | [Report](Competitions/Robo League 2026/README.md) |
+| 2026 | ROBO LEAGUE 2026 | Robotics Club of BRAC University (ROBU) | Participated, withdrew mid-match after a hardware fault | [Report](Competitions/Robo%20League%2026/README.md) |
 
 ---
 
