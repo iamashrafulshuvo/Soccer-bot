@@ -82,7 +82,7 @@ The firmware stops both motors when the Bluetooth client disconnects, so losing 
 ## Gallery
 
 <p align="center">
-  <img src="Assets/Lineup.jpg" alt="Robot lineup" width="650"/><br/>
+  <img src="Competitions/images/Lineup.jpg" alt="Robot lineup" width="650"/><br/>
   <sub>Robot lineup</sub>
 </p>
 
